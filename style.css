@@ -1,0 +1,47 @@
+.row {
+    float: right;
+    display: inline-flex;
+    margin-right: 40px;
+}
+.body {
+    background-color: #c9efdc;
+}
+.xr{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+.xl{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.rox{
+    float: right;
+    display: inline-flex;
+    margin-right: 40px;
+}
+.rol{
+    float: right;
+    display: inline-flex;
+    margin-right: 60px;
+}
+.roc{
+    float: right;
+    display: inline-flex;
+    margin-right: 25px;
+}
+.tor{
+    margin-top: 20px;
+}
+.rac{
+    margin-top: 20px;
+}
+.contactmoi{
+    text-align: center;
+    margin-top: 40px;
+}
+.px{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
